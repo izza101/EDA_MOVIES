@@ -35,6 +35,6 @@ this tutorial may help us https://www.youtube.com/watch?v=bpHtxx_wmqw
 5. Most Successful Franchise
 6. Most Successful Director
 7. Most Successful Actors
-8. Movie Highest Rating In each Year
+8. Release Date by Year
 
 For More Info : izza.aditya.12.ia@gmail.com
